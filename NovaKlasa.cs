@@ -7,7 +7,11 @@ namespace Appl1
 {
     class NovaKlasa
     {
+
         private void PraznaMetoda()
+
+        void Metoda()
+
         {
         }
     }
